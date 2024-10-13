@@ -52,6 +52,7 @@ Each task is implemented in a separate section of the code. To run a specific ta
 
 ## Student Information
 
-Mani Teja Rayana
-Z23740179.
+[Mani Teja Rayana]
+[Z23740179]
+
 
