@@ -52,7 +52,5 @@ Each task is implemented in a separate section of the code. To run a specific ta
 
 ## Student Information
 
-[Your Name]
-[Your Student ID]
-[Course Name]
-[Submission Date]
+Mani Teja Rayana
+Z
