@@ -178,7 +178,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## **Screenshots**
 
 ### Home Screen:
-![Home Screen](assets\HomeScreen.png)
+![Home Screen](assets/HomeScreen.png)
 
 ### Editing Screen:
 ![Editing Screen](assets/editingScreen.png)
