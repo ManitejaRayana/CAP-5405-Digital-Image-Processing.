@@ -178,10 +178,10 @@ If you have any questions or suggestions, feel free to reach out:
 ## **Screenshots**
 
 ### Home Screen:
-![Home Screen](assets/HomeScreen.png)
+![Home Screen](EdiNity/assets/HomeScreen.png)
 
 ### Editing Screen:
-![Editing Screen](assets/editingScreen.png)
+![Editing Screen](EdiNity/assets/EditingScreen.png)
 
 ---
 
