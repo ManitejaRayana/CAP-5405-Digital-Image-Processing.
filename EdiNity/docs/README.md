@@ -7,9 +7,9 @@ Welcome to **Edinity**, a user-friendly photo editing application designed to pr
 ## **Project Details**
 
 - **Team Members**: 
-  - Member 1: Alice Johnson
-  - Member 2: Bob Smith
-  - Member 3: Carol Lee
+  - Mani Teja Rayana         --> Z23740179
+  - Shilpa Karedla           --> Z23746751
+  - Siva shankar Yaddanapudi --> Z23748872
 
 - **Software Used**: 
   - Python 3.8 or higher
@@ -50,8 +50,7 @@ Edinity/
 │   ├── splash_screen.py        # Splash screen functionality
 │   ├── home_screen.py          # Home screen functionality
 │   ├── editing_screen.py       # Editing screen and tools
-│   └── utils/
-│       └── helpers.py          # Reusable helper functions
+│   └── utilities               # Reusable helper functions
 ├── assets/
 │   ├── beauty.png              # Beauty icon
 │   ├── circular.png            # Circular icon
@@ -66,12 +65,7 @@ Edinity/
 │   └── upload.png              # Upload icon
 ├── docs/
 │   ├── README.md               # Project overview
-│   ├── CONTRIBUTING.md         # Contribution guidelines
-│   └── CHANGELOG.md            # Version history
-├── tests/
-│   └── test_editing_screen.py  # Automated test cases
-├── requirements.txt            # Python dependencies
-├── .gitignore                  # Files to exclude from Git tracking
+│   ├── requirements.txt        # Project Requirements
 └── LICENSE                     # License file
 ```
 
@@ -81,7 +75,7 @@ Edinity/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Edinity.git
+   git clone https://github.com/ManitejaRayana/Edinity.git
    cd Edinity
    ```
 
@@ -170,8 +164,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## **Contact**
 
 If you have any questions or suggestions, feel free to reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **Email**: maniteja.rayana@gmail.com
+- **GitHub**: [https://github.com/ManitejaRayana](https://github.com/ManitejaRayana)
 
 ---
 
