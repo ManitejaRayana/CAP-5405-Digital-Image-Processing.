@@ -7,9 +7,9 @@ Welcome to **Edinity**, a user-friendly photo editing application designed to pr
 ## **Project Details**
 
 - **Team Members**: 
-  - Member 1: Alice Johnson
-  - Member 2: Bob Smith
-  - Member 3: Carol Lee
+  - Mani Teja Rayana          --> Z23740179
+  - Shilpa Karedla            --> Z23746751
+  - Siva Shankar Yaddanapudi  --> Z23748872
 
 - **Software Used**: 
   - Python 3.8 or higher
@@ -50,8 +50,7 @@ Edinity/
 │   ├── splash_screen.py        # Splash screen functionality
 │   ├── home_screen.py          # Home screen functionality
 │   ├── editing_screen.py       # Editing screen and tools
-│   └── utils/
-│       └── helpers.py          # Reusable helper functions
+│   └── utilities.py          # Reusable helper functions
 ├── assets/
 │   ├── beauty.png              # Beauty icon
 │   ├── circular.png            # Circular icon
@@ -66,10 +65,6 @@ Edinity/
 │   └── upload.png              # Upload icon
 ├── docs/
 │   ├── README.md               # Project overview
-│   ├── CONTRIBUTING.md         # Contribution guidelines
-│   └── CHANGELOG.md            # Version history
-├── tests/
-│   └── test_editing_screen.py  # Automated test cases
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Files to exclude from Git tracking
 └── LICENSE                     # License file
@@ -81,7 +76,7 @@ Edinity/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Edinity.git
+   git clone https://github.com/ManitejaRayana/Edinity.git
    cd Edinity
    ```
 
@@ -139,28 +134,6 @@ pip install pillow
 
 ---
 
-## **Contributing**
-
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to your fork:
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a Pull Request.
-
-For more details, check the `CONTRIBUTING.md` file.
-
----
-
 ## **License**
 
 This project is licensed under the [MIT License](LICENSE).
@@ -170,7 +143,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## **Contact**
 
 If you have any questions or suggestions, feel free to reach out:
-- **Email**: your.email@example.com
+- **Email**: maniteja.rayana@gmail.com
 - **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
 
 ---
